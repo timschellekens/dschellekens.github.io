@@ -22,7 +22,7 @@ title: DSchellekens Installatietechniek
 email: info@dschellekens.nl
 description: >- # this means to ignore newlines until "baseurl:"
   DSchellekens Installatietechniek
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: https://dschellekens.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dschellekens
 github_username:  dschellekens
